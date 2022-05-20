@@ -8,3 +8,6 @@ This is a great battery-backed real time clock (RTC) that allows your microcontr
 - Plugs into any breadboard, or you can use wires
 - Two mounting holes
 - Will keep time for 5 years or more
+
+## INA1x9 High-Side Measurement Current Shunt Monitor
+The INA139 and INA169 are high-side, unipolar, current shunt monitors. Wide input common-mode voltage range, high-speed, low quiescent current, and tiny SOT-23 packaging enable use in a variety of applications
