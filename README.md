@@ -10,4 +10,6 @@ This is a great battery-backed real time clock (RTC) that allows your microcontr
 - Will keep time for 5 years or more
 
 ## INA1x9 High-Side Measurement Current Shunt Monitor
-The INA139 and INA169 are high-side, unipolar, current shunt monitors. Wide input common-mode voltage range, high-speed, low quiescent current, and tiny SOT-23 packaging enable use in a variety of applications
+The INA139 and INA169 are high-side, unipolar, current shunt monitors. Wide input common-mode voltage range, high-speed, low quiescent current, and tiny SOT-23 packaging enable use in a variety of applications.
+
+I think I will use LM358 OPAMP for ampfying measured voltage, then deciding the direction of the current will be the task.
