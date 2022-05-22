@@ -2,7 +2,8 @@
 In this project, I worked on controller unit of the battery management system and submodules such as RTC, LCD Display, SD-Card Reader, etc.
 
 ## Resources for Battery Management System
-This is a book about BMS for future electric vehicles
+
+Battery Management Algorithms for Electric Vehicles Book
 - https://drive.google.com/file/d/1yqfjjxpPs_QqzFROTNTc2ZXgaryhGttu/view?usp=sharing
 
 TI Switching Fundamentals Booklet
