@@ -4,6 +4,8 @@ In this project, I worked on controller unit of the battery management system an
 ## Resources for Battery Management System
 This is a book about BMS for future electric vehicles
 - https://drive.google.com/file/d/1yqfjjxpPs_QqzFROTNTc2ZXgaryhGttu/view?usp=sharing
+TI Switching Fundamentals Booklet
+- https://drive.google.com/file/d/1EPegQXz08HtQZqb1oqOuBoQKlCQRaX37/view?usp=sharing
 
 ## Real-Time Clock Module Adafruit PCF8523 
 
