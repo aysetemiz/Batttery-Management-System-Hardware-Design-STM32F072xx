@@ -5,6 +5,7 @@ In this project, I worked on controller unit of the battery management system an
 
 Battery Management Algorithms for Electric Vehicles Book
 - https://drive.google.com/file/d/1yqfjjxpPs_QqzFROTNTc2ZXgaryhGttu/view?usp=sharing
+- https://drive.google.com/file/d/1W2pc-Aq8FA_OLn01mX5mCkymhOy-EDvs/view?usp=sharing
 
 TI Switching Fundamentals Booklet
 - https://drive.google.com/file/d/1EPegQXz08HtQZqb1oqOuBoQKlCQRaX37/view?usp=sharing
