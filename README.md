@@ -10,6 +10,9 @@ Battery Management Algorithms for Electric Vehicles Book
 TI Switching Fundamentals Booklet
 - https://drive.google.com/file/d/1EPegQXz08HtQZqb1oqOuBoQKlCQRaX37/view?usp=sharing
 
+Current Sensing with Different Types of Amplifiers
+- https://drive.google.com/file/d/1_F7Duc_1Qy7WURkofty_rwruYl8Tk54K/view?usp=sharing
+
 ## Real-Time Clock Module Adafruit PCF8523 
 
 This is a great battery-backed real time clock (RTC) that allows your microcontroller project to keep track of time even if it is reprogrammed, or if the power is lost. Perfect for datalogging, clock-building, time stamping, timers and alarms, etc. Equipped with PCF8523 RTC - it can run from 3.3V or 5V power & logic!
