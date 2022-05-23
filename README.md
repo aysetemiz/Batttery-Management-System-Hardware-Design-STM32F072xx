@@ -17,6 +17,7 @@ Current Sensing with Different Types of Amplifiers
 ## AD5247 Digital Potentiometer
 The AD5247 provides a compact, 2 mm × 2.1 mm, packaged solution for 128-position adjustment applications. This device
 performs the same electronic adjustment function as a mechanical potentiometer or a variable resistor.
+
 Link: https://www.analog.com/en/products/ad5247.html
 ## Real-Time Clock Module Adafruit PCF8523 
 
