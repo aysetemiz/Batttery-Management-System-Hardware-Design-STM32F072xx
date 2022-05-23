@@ -12,14 +12,14 @@ TI Switching Fundamentals Booklet
 
 Current Sensing with Different Types of Amplifiers
 - https://drive.google.com/file/d/1_F7Duc_1Qy7WURkofty_rwruYl8Tk54K/view?usp=sharing
-### Electronic Components
+## Electronic Components
 
-## AD5247 Digital Potentiometer
+### AD5247 Digital Potentiometer
 The AD5247 provides a compact, 2 mm × 2.1 mm, packaged solution for 128-position adjustment applications. This device
 performs the same electronic adjustment function as a mechanical potentiometer or a variable resistor.
 
 Link: https://www.analog.com/en/products/ad5247.html
-## Real-Time Clock Module Adafruit PCF8523 
+### Real-Time Clock Module Adafruit PCF8523 
 
 This is a great battery-backed real time clock (RTC) that allows your microcontroller project to keep track of time even if it is reprogrammed, or if the power is lost. Perfect for datalogging, clock-building, time stamping, timers and alarms, etc. Equipped with PCF8523 RTC - it can run from 3.3V or 5V power & logic!
 - PCB & header are included
@@ -27,7 +27,7 @@ This is a great battery-backed real time clock (RTC) that allows your microcontr
 - Two mounting holes
 - Will keep time for 5 years or more
 
-## INA1x9 High-Side Measurement Current Shunt Monitor
+### INA1x9 High-Side Measurement Current Shunt Monitor
 The INA139 and INA169 are high-side, unipolar, current shunt monitors. Wide input common-mode voltage range, high-speed, low quiescent current, and tiny SOT-23 packaging enable use in a variety of applications.
 
 I think I will use LM358 OPAMP for ampfying measured voltage, then deciding the direction of the current will be the task.
