@@ -34,13 +34,14 @@ The INA139 and INA169 are high-side, unipolar, current shunt monitors. Wide inpu
 I think I will use LM358 OPAMP for ampfying measured voltage, then deciding the direction of the current will be the task. 
 
 ### LM358P Differential Amplifier for Shunt Current Measurement  
+
 LM358A
 Supply Voltage: 3-30V
 Offset voltage+-3, +-7
 Input bias current 20/250, 15/100
 Gain bandwidth 700 kHz
-supply current 35mA
+Supply current 35mA
 Slew rate: 0.3 V/us
 Operating ambient temp: 0-70 degree celcius
-Slew rate is defined as the maximum rate of change of an op amps output voltage, and is given in units of volts per microsecond
+**Slew rate** is defined as the maximum rate of change of an op amps output voltage, and is given in units of volts per microsecond
 
