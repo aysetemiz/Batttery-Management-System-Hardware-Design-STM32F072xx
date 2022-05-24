@@ -35,7 +35,7 @@ I think I will use LM358 OPAMP for ampfying measured voltage, then deciding the 
 
 ### LM358A Differential Amplifier for Shunt Current Measurement  
 
-LM358A
+**LM358A**
 
 Supply Voltage: 3-30V
 
@@ -46,7 +46,10 @@ Input bias current 20/250, 15/100
 Gain bandwidth 700 kHz
 
 Supply current 35mA
+
 Slew rate: 0.3 V/us
+
 Operating ambient temp: 0-70 degree celcius
+
 **Slew rate** is defined as the maximum rate of change of an op amps output voltage, and is given in units of volts per microsecond
 
